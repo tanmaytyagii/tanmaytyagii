@@ -46,19 +46,31 @@ const tanmay = {
 
 ## 🎯 Goals
 
-📚 Strengthen expertise in Artificial Intelligence and Machine Learning  
-🚀 Build scalable AI-powered applications  
-🤝 Contribute to open-source projects and collaborative development  
-🌍 Secure impactful internships in AI/ML and software engineering  
+- 📚 Strengthen expertise in **Artificial Intelligence and Machine Learning**
+- 🚀 Build **scalable AI-powered applications**
+- 🤝 Contribute to **open-source projects and collaborative development**
+- 🌍 Secure impactful **internships in AI/ML and software engineering**
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: tanmaytyagi580@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/tyagitanmay  
-💻 GitHub: https://github.com/tanmaytyagii  
+<p align="left">
+
+<a href="mailto:tanmaytyagi580@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/tyagitanmay">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tanmaytyagii">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-Focused on learning continuously, building impactful technology, and growing as an AI engineer.
+⭐ *Focused on learning continuously, building impactful technology, and growing as an AI engineer.*
