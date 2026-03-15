@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there 👋 I'm Tanmay Tyagi
 
-<!--
-**tanmaytyagii/tanmaytyagii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE (AIML) Undergraduate • AI/ML Enthusiast • Full-Stack Learner
 
-Here are some ideas to get you started:
+I’m a Computer Science undergraduate at Bennett University with a strong interest in Artificial Intelligence, Machine Learning, and building real-world technology products. I enjoy solving problems through data-driven systems, experimenting with ML models, and developing scalable web applications. I’m passionate about continuous learning and building impactful software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🎓 B.Tech Computer Science & Engineering (AIML) — Bennett University  
+📊 CGPA: 7.83  
+🤖 Interested in Artificial Intelligence, Machine Learning & Data Science  
+💻 Experience building AI-based systems and web applications  
+🛠️ Skilled in Python, C++, JavaScript, and modern development tools  
+🤝 Open to collaboration on AI/ML projects and innovative software ideas  
+
+---
+
+## 🎯 Current Focus
+
+🔭 Building AI and data-driven applications  
+🌱 Learning Deep Learning, advanced ML algorithms, and system design  
+💡 Improving problem-solving and DSA skills  
+👯 Looking to collaborate on AI/ML and full-stack projects  
+💬 Ask me about Python, Machine Learning, or web development  
+
+---
+
+## 🛠️ Tech Stack
+
+```javascript
+const tanmay = {
+  languages: ['Python', 'C++', 'JavaScript', 'SQL'],
+  
+  frontend: ['HTML5', 'CSS3', 'React.js', 'Tailwind CSS'],
+  
+  backend: ['Node.js', 'REST APIs'],
+  
+  ai_ml: ['Machine Learning', 'Deep Learning', 'TensorFlow', 'Data Analysis'],
+  
+  tools: ['Git', 'GitHub', 'VS Code', 'Google Colab']
+};
+
+---
+
+## 🎯 Goals
+
+📚 Strengthen expertise in Artificial Intelligence and Machine Learning  
+🚀 Build scalable AI-powered applications  
+🤝 Contribute to open-source projects and collaborative development  
+🌍 Secure impactful internships in AI/ML and software engineering  
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: tanmaytyagi580@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/tyagitanmay  
+💻 GitHub: https://github.com/tanmaytyagii  
+
+---
+
+Focused on learning continuously, building impactful technology, and growing as an AI engineer.
