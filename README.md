@@ -45,35 +45,18 @@ const tanmay = {
 
 ## 🎯 Goals
 
-- 📚 Strengthen expertise in **Artificial Intelligence and Machine Learning**
-- 🚀 Build **scalable AI-powered applications**
-- 🤝 Contribute to **open-source projects and collaborative development**
-- 🌍 Secure impactful **internships in AI/ML and software engineering**
+- 📚 Strengthen research profile in **AI & Machine Learning**
+- 🚀 Build **large-scale, production-ready systems**
+- 🤝 Continue impactful **open-source contributions**
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://linkedin.com/in/tyagitanmay">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tanmaytyagi580@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tanmaytyagii">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tyagitanmay)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaytyagi580@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanmaytyagii)
 
 ---
 
-<p align="center">
-
-⭐ **Focused on learning continuously, building impactful technology, and growing as an AI engineer.**
-
-</p>
+Focused on learning continuously, building impactful technology, and growing as an AI engineer.
