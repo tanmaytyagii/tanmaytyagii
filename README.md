@@ -21,9 +21,9 @@ I’m a Computer Science undergraduate at Bennett University with a strong inter
 
 - 🔭 Building AI and data-driven applications  
 - 🌱 Learning Deep Learning, advanced ML algorithms, and system design  
-- 💡 Improving problem-solving and DSA skills  
+- 💡 Improving problem-solving and DSA skills 
 - 👯 Looking to collaborate on AI/ML and full-stack projects  
-- 💬 Ask me about Python, Machine Learning, or Web Development  
+- 💬 Ask me about Python, Machine Learning, or Web Development 
 
 ---
 
