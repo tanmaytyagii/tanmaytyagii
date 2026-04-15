@@ -20,7 +20,7 @@ Currently working as an **AI Automation Engineer Trainee**, gaining hands-on exp
 ## 🛠️ Tech Stack
 - **Languages:** C++, Python, JavaScript, SQL  
 - **Frontend:** React.js, Tailwind CSS  
-- **Tools & Platforms:** Git, GitHub, VS Code, n8n, ElevenLabs  
+- **Tools & Platforms:** Git, GitHub, VS Code, Jira, n8n, ElevenLabs  
 
 ---
 
