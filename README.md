@@ -1,41 +1,63 @@
 # Hi 👋 I'm Tanmay Tyagi
 
-**Pre-final Year B.Tech CSE (AIML) | Software Developer | AI & Automation**
+**AI Automation Engineer | QA & Testing Enthusiast | AIML Student**
 
-I’m a Computer Science undergraduate at Bennett University with a strong interest in software development, problem solving, and building scalable systems.
+I’m a pre-final year Computer Science (AIML) student at Bennett University, with hands-on experience in **AI automation, workflow testing, and system validation**.
 
-Currently working as an **AI Automation Engineer Trainee**, gaining hands-on experience in building and optimizing real-world AI-driven automation workflows.
+Currently working as an **AI Automation Engineer**, where I design, test, and debug AI-driven workflows involving APIs, triggers, and multi-step pipelines.
 
 ---
 
 ## 🚀 About Me
 - 🎓 B.Tech CSE (AIML) – Bennett University (CGPA: 7.83)
-- 💻 Strong in **Data Structures & Algorithms (C++)**
-- ⚙️ Experience in building **web applications and AI-powered systems**
-- 🧠 Interested in **System Design, Backend Development & AI**
-- 🤝 Open to collaboration on impactful projects
+- 🤖 Experience in **AI-driven automation & workflow testing**
+- 🧪 Strong focus on **Manual QA, bug detection & edge case analysis**
+- 🔍 Skilled in **debugging, system validation, and reliability testing**
+- 🤝 Interested in building **robust and high-quality AI systems**
+
+---
+
+## 🧪 QA & Testing Skills
+- Test Case Design & Execution  
+- Bug Reporting (Steps, Expected vs Actual, Severity)  
+- Edge Case & Negative Testing  
+- Workflow & End-to-End Testing  
+- API & Automation Testing Basics  
+
+---
+
+## 🤖 AI & Automation
+- AI Workflow Automation (APIs, triggers, pipelines)  
+- Debugging automation failures & handling edge cases  
+- Basic understanding of **Reinforcement Learning (Agent, Environment, Reward)**  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C++, Python, JavaScript, SQL  
-- **Frontend:** React.js, Tailwind CSS  
+- **Languages:** Python, C++, JavaScript, SQL  
 - **Tools & Platforms:** Git, GitHub, VS Code, Jira, n8n, ElevenLabs  
 
 ---
 
+## 📂 Featured Work
+- 🧪 QA Testing Portfolio (Test cases, bug reports, real-world testing)
+- 🤖 RL Environment Testing (Agent behavior & reward validation)
+- ⚙️ AI Automation Workflows (Testing & debugging pipelines)
+
+---
+
 ## 📈 Current Focus
-- Strengthening **DSA & Problem Solving**
-- Learning **System Design & Backend Development**
-- Building **AI automation workflows and real-world applications**
+- Strengthening **QA Testing & System Validation**
+- Exploring **AI system testing & RL environments**
+- Building **real-world testing projects on GitHub**
 
 ---
 
 ## 🎯 Goals
-- Become a strong **Software Engineer**
-- Build scalable and impactful systems
-- Continuously improve through learning and real-world implementation
+- Become a skilled **QA Engineer in AI Systems**
+- Work on **high-impact AI products**
+- Ensure **reliability and quality in intelligent systems**
 
 ---
 
-⭐ *Building scalable solutions. Always learning.*
+⭐ *Breaking systems to make them better.*
