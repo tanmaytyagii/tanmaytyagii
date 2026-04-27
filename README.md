@@ -1,63 +1,69 @@
-# Hi 👋 I'm Tanmay Tyagi
+# Hi 👋 I'm Tanmay Tyagi  
 
-**AI Automation Engineer | QA & Testing Enthusiast | AIML Student**
+**AI Automation Engineer | Software Engineer | AIML Student**
 
-I’m a pre-final year Computer Science (AIML) student at Bennett University, with hands-on experience in **AI automation, workflow testing, and system validation**.
+I’m a pre-final year Computer Science (AIML) student at Bennett University with hands-on experience in AI automation, full-stack development, and system design.
 
-Currently working as an **AI Automation Engineer**, where I design, test, and debug AI-driven workflows involving APIs, triggers, and multi-step pipelines.
+Currently working as an AI Automation Engineer Intern, building scalable automation workflows and integrating AI systems for real-world applications.
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE (AIML) – Bennett University (CGPA: 7.83)
-- 🤖 Experience in **AI-driven automation & workflow testing**
-- 🧪 Strong focus on **Manual QA, bug detection & edge case analysis**
-- 🔍 Skilled in **debugging, system validation, and reliability testing**
-- 🤝 Interested in building **robust and high-quality AI systems**
+- 🎓 B.Tech CSE (AIML) – Bennett University (CGPA: 7.83)  
+- 🤖 Experience in AI automation, LLM integration, and workflow systems  
+- 💻 Strong foundation in full-stack development and system design  
+- 🔍 Skilled in debugging, testing, and performance optimization  
+- 🤝 Interested in building scalable and reliable AI systems  
 
 ---
 
-## 🧪 QA & Testing Skills
-- Test Case Design & Execution  
-- Bug Reporting (Steps, Expected vs Actual, Severity)  
-- Edge Case & Negative Testing  
-- Workflow & End-to-End Testing  
-- API & Automation Testing Basics  
+## 💼 Experience
+
+**AI Automation Engineer Intern**  
+- Designed and deployed AI-driven automation workflows using n8n  
+- Integrated third-party APIs and LLM-based solutions  
+- Built scalable pipelines for data processing and task orchestration  
+- Improved operational efficiency by reducing manual intervention  
+
+**Software Engineer Intern**  
+- Developed full-stack web applications with modern frontend technologies  
+- Built modular and reusable UI components  
+- Optimized performance and maintained code quality standards  
+- Worked in Agile/Scrum environment with version control systems  
 
 ---
 
-## 🤖 AI & Automation
-- AI Workflow Automation (APIs, triggers, pipelines)  
-- Debugging automation failures & handling edge cases  
-- Basic understanding of **Reinforcement Learning (Agent, Environment, Reward)**  
+## 🧠 Skills
 
----
+**Programming Languages:**  
+Python, C++, JavaScript, TypeScript, SQL  
 
-## 🛠️ Tech Stack
-- **Languages:** Python, C++, JavaScript, SQL  
-- **Tools & Platforms:** Git, GitHub, VS Code, Jira, n8n, ElevenLabs  
+**AI / ML:**  
+Machine Learning, NLP, LLMs, RAG, Prompt Engineering  
 
----
+**Development:**  
+React.js, Node.js, REST APIs, Full-Stack Development  
 
-## 📂 Featured Work
-- 🧪 QA Testing Portfolio (Test cases, bug reports, real-world testing)
-- 🤖 RL Environment Testing (Agent behavior & reward validation)
-- ⚙️ AI Automation Workflows (Testing & debugging pipelines)
+**Testing & Debugging:**  
+Test Case Design, Bug Reporting, API Testing, Workflow Testing, Edge Case Analysis  
+
+**Tools & Technologies:**  
+Git, GitHub, n8n, Postman, VS Code, Vite, ESLint  
 
 ---
 
 ## 📈 Current Focus
-- Strengthening **QA Testing & System Validation**
-- Exploring **AI system testing & RL environments**
-- Building **real-world testing projects on GitHub**
+- Building AI-powered automation systems  
+- Strengthening system design and backend skills  
+- Exploring real-world applications of LLMs and AI systems  
 
 ---
 
 ## 🎯 Goals
-- Become a skilled **QA Engineer in AI Systems**
-- Work on **high-impact AI products**
-- Ensure **reliability and quality in intelligent systems**
+- Grow as an AI-focused Software Engineer  
+- Work on scalable and high-impact systems  
+- Build reliable and production-ready intelligent applications  
 
 ---
 
-⭐ *Breaking systems to make them better.*
+⭐ Committed to building high-quality, scalable systems that perform reliably in real-world environments.
