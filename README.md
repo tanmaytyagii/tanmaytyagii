@@ -1,69 +1,59 @@
-# Hi 👋 I'm Tanmay Tyagi  
+# Hi 👋 I'm Tanmay Tyagi
 
-**AI Automation Engineer | Software Engineer | AIML Student**
+**AI Automation Engineer | Software Engineer**
 
-I’m a pre-final year Computer Science (AIML) student at Bennett University with hands-on experience in AI automation, full-stack development, and system design.
-
-Currently working as an AI Automation Engineer Intern, building scalable automation workflows and integrating AI systems for real-world applications.
+Building scalable AI systems, automation workflows, and backend solutions for real-world applications.
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech CSE (AIML) – Bennett University (CGPA: 7.83)  
-- 🤖 Experience in AI automation, LLM integration, and workflow systems  
-- 💻 Strong foundation in full-stack development and system design  
-- 🔍 Skilled in debugging, testing, and performance optimization  
-- 🤝 Interested in building scalable and reliable AI systems  
+## 🚀 About
+
+* AI automation & LLM integration
+* Full-stack development & system design
+* Workflow orchestration (n8n)
+* Performance optimization & debugging
 
 ---
 
 ## 💼 Experience
 
-**AI Automation Engineer Intern**  
-- Designed and deployed AI-driven automation workflows using n8n  
-- Integrated third-party APIs and LLM-based solutions  
-- Built scalable pipelines for data processing and task orchestration  
-- Improved operational efficiency by reducing manual intervention  
+**AI Automation Engineer Intern**
 
-**Software Engineer Intern**  
-- Developed full-stack web applications with modern frontend technologies  
-- Built modular and reusable UI components  
-- Optimized performance and maintained code quality standards  
-- Worked in Agile/Scrum environment with version control systems  
+* Built and deployed AI-driven automation workflows
+* Integrated LLMs and third-party APIs
+* Designed scalable pipelines for data processing
+* Reduced manual effort through automation
+
+**Software Engineer Intern**
+
+* Developed full-stack applications with modern tech stack
+* Built reusable UI components
+* Improved performance and code quality
+* Worked in Agile development environments
 
 ---
 
 ## 🧠 Skills
 
-**Programming Languages:**  
-Python, C++, JavaScript, TypeScript, SQL  
-
-**AI / ML:**  
-Machine Learning, NLP, LLMs, RAG, Prompt Engineering  
-
-**Development:**  
-React.js, Node.js, REST APIs, Full-Stack Development  
-
-**Testing & Debugging:**  
-Test Case Design, Bug Reporting, API Testing, Workflow Testing, Edge Case Analysis  
-
-**Tools & Technologies:**  
-Git, GitHub, n8n, Postman, VS Code, Vite, ESLint  
+**Languages:** Python, C++, JavaScript, TypeScript, SQL
+**AI/ML:** LLMs, NLP, RAG, Prompt Engineering
+**Development:** React, Node.js, REST APIs
+**Tools:** Git, n8n, Postman, VS Code
 
 ---
 
 ## 📈 Current Focus
-- Building AI-powered automation systems  
-- Strengthening system design and backend skills  
-- Exploring real-world applications of LLMs and AI systems  
+
+* AI-powered automation systems
+* Backend scalability & system design
+* Real-world LLM applications
 
 ---
 
-## 🎯 Goals
-- Grow as an AI-focused Software Engineer  
-- Work on scalable and high-impact systems  
-- Build reliable and production-ready intelligent applications  
+## 🎯 Goal
+
+To build scalable, production-ready AI systems that solve real-world problems.
 
 ---
 
-⭐ Committed to building high-quality, scalable systems that perform reliably in real-world environments.
+⭐ Focused on building efficient, reliable, and high-impact systems.
