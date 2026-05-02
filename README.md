@@ -14,23 +14,25 @@ Building scalable AI systems, automation workflows, and backend solutions for re
 * Performance optimization & debugging
 
 ---
-
 ## 💼 Experience
 
-**AI Automation Engineer Intern**
+### AI Automation Engineer Intern — Grafo Software  
+*Remote (Dehradun, India) | Apr 2026 – Present*
 
-* Built and deployed AI-driven automation workflows
-* Integrated LLMs and third-party APIs
-* Designed scalable pipelines for data processing
-* Reduced manual effort through automation
+- Architected and deployed AI-driven automation workflows using n8n, reducing manual intervention across business processes  
+- Integrated LLM-based solutions (OpenAI, Anthropic) with third-party REST APIs for real-time automation pipelines  
+- Designed scalable data processing and task orchestration systems for cross-functional workflows  
+- Improved operational efficiency by automating repetitive processes and streamlining system interactions  
 
-**Software Engineer Intern**
+---
 
-* Developed full-stack applications with modern tech stack
-* Built reusable UI components
-* Improved performance and code quality
-* Worked in Agile development environments
+### Software Engineer Intern — Sopra Steria India Limited  
+*Remote (Noida, India) | Oct 2025 – Dec 2025*
 
+- Developed **Ocasio**, a full-stack platform for event discovery and service provider management  
+- Built modular and reusable UI components using React.js, TypeScript, and Tailwind CSS  
+- Optimized frontend performance using Vite and enforced code quality with ESLint  
+- Implemented new features, unit tests, and collaborated in Agile/Scrum development workflows  
 ---
 
 ## 🧠 Skills
