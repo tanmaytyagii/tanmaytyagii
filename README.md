@@ -126,7 +126,7 @@ class TanmayTyagi:
 </td>
 <td valign="top">
 
-**AI Automation Engineer Intern** &nbsp;·&nbsp; [**Grafo Software**](https://grafo.software) &nbsp;`Remote · Dehradun, India`
+**AI Automation Engineer Intern** &nbsp;·&nbsp; [**Grafo Software**]([https://grafo.software](https://www.grafo.in/)) &nbsp;`Remote · Dehradun, India`
 - Architected and deployed **AI-driven automation workflows** using n8n, streamlining core business processes across multiple departments
 - Integrated third-party **REST APIs + LLM solutions** (OpenAI & Anthropic) to build scalable, production-ready automation pipelines serving real-time business needs
 - Designed intelligent systems for **automated data processing**, task orchestration, and cross-functional workflow management, improving operational efficiency
