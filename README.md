@@ -132,7 +132,7 @@ class TanmayTyagi:
 <tr>
 <td valign="top" width="140px" align="right">
 
-`2022 – Present`
+`2023 – Present`
 
 </td>
 <td valign="top" width="20px" align="center">
