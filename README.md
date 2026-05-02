@@ -35,10 +35,10 @@ Building scalable AI systems, automation workflows, and backend solutions for re
 
 ## 🧠 Skills
 
-**Languages:** Python, C++, JavaScript, TypeScript, SQL
-**AI/ML:** LLMs, NLP, RAG, Prompt Engineering
-**Development:** React, Node.js, REST APIs
-**Tools:** Git, n8n, Postman, VS Code
+* **Languages:** Python, C++, JavaScript, TypeScript, SQL
+* **AI/ML:** LLMs, NLP, RAG, Prompt Engineering
+* **Development:** React, Node.js, REST APIs
+* **Tools:** Git, n8n, Postman, VS Code
 
 ---
 
