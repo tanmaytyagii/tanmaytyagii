@@ -40,7 +40,7 @@ class TanmayTyagi:
     education   = "B.Tech CSE (AIML) — Bennett University"
     focus       = ["LLM Applications", "AI Automation", "Scalable Backend Systems"]
     currently   = "Building production-grade AI pipelines & agentic workflows"
-    goal        = "High-impact role in AI/ML | 30+ LPA"
+    goal        = "High-impact role in AI/ML"
     fun_fact    = "I automate the boring stuff — then automate the automator 🤖"
 ```
 
