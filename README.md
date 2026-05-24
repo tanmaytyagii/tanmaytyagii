@@ -162,6 +162,8 @@ class TanmayTyagi:
 </tr>
 </table>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -174,7 +176,7 @@ class TanmayTyagi:
 <br/>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=tanmaytyagii&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff&mode=weekly&v=3" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=tanmaytyagii&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff&v=3" />
 </p>
 
 <br/>
