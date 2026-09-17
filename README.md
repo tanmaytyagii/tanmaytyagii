@@ -1,109 +1,77 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tanmay%20Tyagi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" alt="Tanmay Tyagi — AI Automation Engineer | Full Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Tanmay%20Tyagi&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=I%20build%20AI%20systems%20that%20show%20their%20work&descAlignY=56&descSize=17&descColor=a78bfa&animation=fadeIn" alt="Tanmay Tyagi — I build AI systems that show their work" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+AI+Systems+that+Scale+%F0%9F%A4%96;LLM+Integrations+%7C+Automation+%7C+NLP;B.Tech+CSE+%28AIML%29+%40+Bennett+University;Open+to+High-Impact+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=AI+Automation+Engineer+%40+Grafo+Software;IEEE+first+author+%E2%80%94+iSmartComp+2026;Retrieval+systems+that+cite+their+sources;B.Tech+CSE+%E2%80%94+Bennett+University+%E2%80%94+2027" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/tyagitanmay" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://github.com/tanmaytyagii?tab=repositories&sort=stargazers">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/tanmaytyagii?color=7C3AED&style=for-the-badge&labelColor=4C1D95&logo=star&logoColor=white" alt="Total stars" />
 </a>
 &nbsp;
-<a href="mailto:tanmaytyagi580@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="https://github.com/tanmaytyagii?tab=followers">
+  <img src="https://custom-icon-badges.demolab.com/github/followers/tanmaytyagii?color=7C3AED&style=for-the-badge&labelColor=4C1D95&logo=person-add&label=Follow&logoColor=white" alt="Followers" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=tanmaytyagii&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/><br/>
+
+<a href="https://tanmaytyagi-portfolio.vercel.app/" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-7C3AED?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://github.com/tanmaytyagii/RAG-vs-LLM-Healthcare-Research" target="_blank">
+  <img src="https://img.shields.io/badge/IEEE%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Paper" />
 </a>
 &nbsp;
 <a href="https://drive.google.com/file/d/1AeL9ZaxlKwj0qahdVovFqk7H7GJeR-ZH/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=tanmaytyagii&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://www.linkedin.com/in/tyagitanmay" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:tanmaytyagi68@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+Final-year **B.Tech CSE (AI & ML)** at **Bennett University**, graduating **2027**. Currently an **AI Automation Engineer Intern at [Grafo Software](https://www.grafo.in/)**, building n8n and LLM automation pipelines that run in production.
 
-```python
-class TanmayTyagi:
-    role        = "AI Automation Engineer | Full Stack Developer"
-    education   = "B.Tech CSE (AIML) — Bennett University"
-    focus       = ["LLM Applications", "AI Automation", "Scalable Backend Systems"]
-    currently   = "Building production-grade AI pipelines & agentic workflows"
-    goal        = "High-impact role in AI/ML"
-    fun_fact    = "I automate the boring stuff — then automate the automator 🤖"
-```
+The thread through what I build is one idea: **a system should be able to prove what it tells you.** Cite the passage behind an answer. Abstain when nothing supports one. Label a number *unavailable* rather than estimating it. Log the reason a score was overridden. Fluency is cheap now — being checkable isn't.
 
-- 🧠 Obsessed with turning **LLMs into reliable production systems**
-- ⚡ Built real-world **AI automation workflows** used in live environments
-- 🔭 Exploring **agentic AI**, multi-model orchestration, and RAG pipelines
-- 💡 Bridging the gap between **research-grade AI** and **scalable engineering**
+**The repositories below are where that plays out.** Each one is documented properly: what it does, why it's built that way, and how to run it.
 
 ---
 
-## 🛠 &nbsp;Tech Stack
+## 📄 Research
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Evidence-Grounded Healthcare AI: Evaluating RAG and LLM Architectures**
+*IEEE accepted · iSmartComp 2026 · **First author**, team of four · Bennett University*
 
-### 🤖 AI / ML & GenAI
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-1F2937?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-9333EA?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-EC4899?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+A comparison of retrieval-augmented generation against standalone LLMs for clinical question answering, measured across eight dimensions — factual accuracy, faithfulness, hallucination rate, retrieval relevance, fluency, response diversity, computational efficiency and clinical safety.
 
-### ⚙️ Backend, Web & Automation
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+**The finding:** retrieval buys evidence grounding and pays for it in latency and inference cost — a trade worth making wherever correctness is not negotiable.
 
-### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🧰 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0EA5E9?style=for-the-badge)
+I owned backend and AI integration, and led the team. → **[Companion repository](https://github.com/tanmaytyagii/RAG-vs-LLM-Healthcare-Research)**
 
 ---
 
-## 💼 &nbsp;Experience
+## 💼 Experience
 
 <table>
 <tr>
-<td valign="top" width="140px" align="right">
+<td valign="top" width="150px" align="right">
 
-`Apr 2026 – Present`
+`Apr 2026 – Sep 2026`
 
 </td>
 <td valign="top" width="20px" align="center">
@@ -113,16 +81,16 @@ class TanmayTyagi:
 </td>
 <td valign="top">
 
-**AI Automation Engineer Intern** &nbsp;·&nbsp; [**Grafo Software**](https://www.grafo.in/) &nbsp;`Remote · Dehradun, India`
+**AI Automation Engineer Intern** &nbsp;·&nbsp; [**Grafo Software**](https://www.grafo.in/) &nbsp;`Remote · Dehradun`
 
-- Architected and deployed **AI-driven automation workflows** using n8n, streamlining core business processes across multiple departments
-- Integrated third-party **REST APIs + LLM solutions** (OpenAI & Anthropic) to build scalable, production-ready automation pipelines serving real-time business needs
-- Designed intelligent systems for **automated data processing**, task orchestration, and cross-functional workflow management, improving operational efficiency
+- Built and deployed **n8n automation workflows** running against live business processes across multiple departments
+- Integrated **OpenAI and Anthropic APIs** alongside third-party REST services into production pipelines, with retry and failure handling rather than happy-path calls
+- Designed orchestration for automated data processing and cross-functional task routing
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="140px" align="right">
+<td valign="top" width="150px" align="right">
 
 `Oct 2025 – Dec 2025`
 
@@ -134,19 +102,19 @@ class TanmayTyagi:
 </td>
 <td valign="top">
 
-**Software Engineer Intern** &nbsp;·&nbsp; [**Sopra Steria India Limited**](https://www.soprasteria.com) &nbsp;`Remote · Noida, India`
+**Software Engineer Intern** &nbsp;·&nbsp; [**Sopra Steria India**](https://www.soprasteria.com) &nbsp;`Remote · Noida`
 
-- Built **Ocasio** — a full-stack web platform for discovering verified event venues and service providers, delivering end-to-end features from database design to deployment
-- Developed modular, reusable UI components using **React.js, TypeScript, and Tailwind CSS**, achieving full cross-device compatibility and responsive design
-- Optimized frontend build performance with **Vite** and enforced code quality via ESLint, reducing build time and minimizing runtime errors
-- Implemented features, wrote unit tests, and managed version control using **Git & GitHub** within an Agile/Scrum team environment
+- Shipped an event-venue marketplace end to end — schema design through deployment — with role-gated routes separating customer and vendor surfaces
+- Built the component layer in **React, TypeScript and Tailwind**, responsive across devices
+- Type-checked builds via `tsc` and enforced lint gates, so a type error fails the build instead of shipping
+- Worked in an Agile/Scrum team with Git-based review
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="140px" align="right">
+<td valign="top" width="150px" align="right">
 
-`2023 – Present`
+`2023 – 2027`
 
 </td>
 <td valign="top" width="20px" align="center">
@@ -156,7 +124,7 @@ class TanmayTyagi:
 </td>
 <td valign="top">
 
-**B.Tech CSE (AI & ML)** &nbsp;·&nbsp; **Bennett University** &nbsp;`Greater Noida, India`
+**B.Tech, Computer Science & Engineering (AI & ML)** &nbsp;·&nbsp; **Bennett University** &nbsp;`Greater Noida`
 
 </td>
 </tr>
@@ -164,96 +132,65 @@ class TanmayTyagi:
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Stack
+
+| | |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · C++ · C · SQL |
+| **AI / ML** | PyTorch · Hugging Face · scikit-learn · LangChain · NLTK · Sentence Transformers |
+| **LLM systems** | RAG · hybrid retrieval · cross-encoder reranking · evaluation harnesses · prompt design · Ollama · OpenAI & Anthropic APIs |
+| **Backend** | FastAPI · Node.js · Next.js · REST · Prisma · webhooks |
+| **Frontend** | React · Vite · Tailwind · Three.js · GSAP |
+| **Data** | PostgreSQL · MongoDB · Redis · Supabase · SQLite |
+| **Infra & tooling** | Docker · AWS · Vercel · Railway · GitHub Actions · n8n · Git · ESLint |
+
+---
+
+## 📊 Stats & Activity
 
 <div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanmaytyagii&show_icons=true&theme=tokyonight" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaytyagii&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://streak-stats.demolab.com?user=tanmaytyagii&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmaytyagii&theme=github_dark&animation=rgb-soft&duration=12" alt="Profile summary" />
+
+<br/><br/>
+
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmaytyagii&theme=github_dark" alt="Repos per language" />
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanmaytyagii&theme=github_dark" alt="Most commit language" />
 
 <br/>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=tanmaytyagii&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff&v=3" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanmaytyagii&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&area_color=1e1b4b&theme=tokyo-night&v=3" />
-</p>
+<sub><i>Language breakdowns reflect the composition of my public code, not experience or skill level.</i></sub>
 
 </div>
 
 ---
 
-
-
-## 🎯 &nbsp;Currently Building Towards
-
 <div align="center">
 
-| Area | What I'm Exploring |
-|------|-------------------|
-| 🤖 **Agentic AI** | Multi-agent orchestration, tool-use, memory systems |
-| 🔗 **LLM Ops** | RAG pipelines, fine-tuning, prompt engineering at scale |
-| ⚙️ **Backend Scale** | Distributed systems, async APIs, microservices |
-| 🌐 **AI Products** | End-to-end AI SaaS — from model to market |
+### Open to AI/ML and backend roles — full-time from 2027, internships before that.
 
-</div>
-
----
-
-## 🌐 &nbsp;Open Source & Community
-
-- 🤝 Believe in **build in public** — sharing learnings, failures, and breakthroughs
-- 📝 Writing about AI systems, automation, and LLM engineering
-
----
-
-## 💬 &nbsp;Dev Philosophy
-
-<div align="center">
-
-> *❝ The best engineers don't just write code — they design systems that outlive them. ❞*
-
-</div>
-
----
-
-## 🔗 &nbsp;Let's Connect
-
-<div align="center">
-
-If you're building something ambitious in AI, automation, or full-stack — I'd love to talk.
+If you're building retrieval systems, agent infrastructure, or anything where the model has to be right rather than merely fluent, I'd like to hear about it.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/tyagitanmay">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:tanmaytyagi580@gmail.com">
+<a href="mailto:tanmaytyagi68@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1AeL9ZaxlKwj0qahdVovFqk7H7GJeR-ZH/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+<a href="https://www.linkedin.com/in/tyagitanmay">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://tanmaytyagi-portfolio.vercel.app/">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-7C3AED?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
-**📌 Open to:** AI/ML Internships &nbsp;·&nbsp; Full-Stack Roles &nbsp;·&nbsp; Research Collaborations &nbsp;·&nbsp; Freelance AI Projects
-
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Open%20to%20Opportunities&fontSize=20&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="footer" />
 
 </div>
